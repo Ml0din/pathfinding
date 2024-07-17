@@ -1,0 +1,9 @@
+name: Pathfinding
+version: 1.0
+author: Mladin Alexandru-Mihai
+main: com.mladin.pathfinding.PathfindingPlugin
+api-version: 1.16
+commands:
+  pathfind:
+    description: "Get the shortest path to a location."
+    usage: "/pathfind <x> <z>"
