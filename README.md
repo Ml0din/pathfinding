@@ -16,4 +16,4 @@ Dynamic Environment Handling: Capable of adjusting to changes in the environment
 
 Efficient Path Calculation: Optimized to quickly determine the best path, even in complex and obstacle-rich terrains.
 
-Versatile Application: Suitable for various use cases, from gaming environments like Minecraft to real-world applications involving x-z coordinate systems.
+Versatile Application: Suitable for various use cases, from gaming environments like Minecraft to real-world applications involving coordinate systems.
