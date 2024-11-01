@@ -8,12 +8,4 @@ Implement Reinforcement Learning Techniques: Utilize reinforcement learning prin
 
 Optimize Pathfinding Efficiency: Develop an algorithm that can efficiently find the shortest or most optimal path in complex environments, reducing computational time and resource usage.
 
-Generalize for Multiple Applications: Ensure the algorithm is flexible and can be applied to any scenario involving a two-dimensional coordinate system (x, z), making it useful for a wide range of applications beyond gaming.
-
-Key Features:
-
-Dynamic Environment Handling: Capable of adjusting to changes in the environment, ensuring robust and reliable pathfinding.
-
-Efficient Path Calculation: Optimized to quickly determine the best path, even in complex and obstacle-rich terrains.
-
-Versatile Application: Suitable for various use cases, from gaming environments like Minecraft to real-world applications involving coordinate systems.
+Generalize for Multiple Applications: Ensure the algorithm is flexible and can be applied to any scenario involving a two-dimensional coordinate system (x, z).
